@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (18017 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="90.0000000" minlon="-180.0000000" maxlat="90.0000000" maxlon="180.0000000"/>
+ <node id="269538499" visible="true" version="26" changeset="52822148" timestamp="2017-10-11T11:51:16Z" user="fukejs" uid="25204" lat="90.0000000" lon="0.0000000">
+  <tag k="name" v="Norda poluso"/>
+  <tag k="name:af" v="Noordpool"/>
+  <tag k="name:ast" v="Polu Norte"/>
+  <tag k="name:ba" v="Төньяҡ ҡотоп"/>
+  <tag k="name:cs" v="Severní pól"/>
+  <tag k="name:da" v="Nordpolen"/>
+  <tag k="name:de" v="Nordpol"/>
+  <tag k="name:en" v="North Pole"/>
+  <tag k="name:eo" v="Norda poluso"/>
+  <tag k="name:es" v="polo norte"/>
+  <tag k="name:et" v="Põhjapoolus"/>
+  <tag k="name:fr" v="Pôle Nord"/>
+  <tag k="name:he" v="הקוטב הצפוני"/>
+  <tag k="name:ia" v="Polo Nord"/>
+  <tag k="name:io" v="Norda Polo"/>
+  <tag k="name:it" v="Polo artico"/>
+  <tag k="name:lt" v="Šiaurės ašigalis"/>
+  <tag k="name:pl" v="Biegun północny"/>
+  <tag k="name:pt" v="Polo Norte"/>
+  <tag k="name:ru" v="Се́верный по́люс"/>
+  <tag k="name:sk" v="Severný pól"/>
+  <tag k="name:sl" v="Severni tečaj"/>
+  <tag k="name:tt" v="Төньяк котып"/>
+  <tag k="name:uk" v="Північний полюс"/>
+  <tag k="name:vo" v="Pov Nolüdik"/>
+  <tag k="name:zh" v="北極點"/>
+  <tag k="place" v="locality"/>
+  <tag k="population" v="0"/>
+  <tag k="wikidata" v="Q934"/>
+  <tag k="wikipedia" v="en:North Pole"/>
+ </node>
+ <node id="5478583919" visible="true" version="1" changeset="57186537" timestamp="2018-03-14T18:09:22Z" user="fluffy_unicorn" uid="2959136" lat="90.0000000" lon="-130.8154922"/>
+ <node id="5515059772" visible="true" version="1" changeset="57645294" timestamp="2018-03-29T20:30:33Z" user="hpduwe" uid="593899" lat="90.0000000" lon="-49.3966175"/>
+</osm>

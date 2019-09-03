@@ -37,9 +37,9 @@ This project will start with some question-orientated directions.
 Will update after get results
 
 ## TODO List<a name='todo'></a>
-- [] completes data acquisition part
-- [] produce a map containing total amount rainfall during 20 years
-- [] basic statistics information describing early run and final run e.g. RMSE, MAE, pearsonr, and along with normalized value
+- [ ] completes data acquisition part
+- [ ] produce a map containing total amount rainfall during 20 years
+- [ ] basic statistics information describing early run and final run e.g. RMSE, MAE, pearsonr, and along with normalized value
 
 ## Update<a name='updates'></a>
     2019.9.3 initiate README

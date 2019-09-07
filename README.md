@@ -32,6 +32,24 @@ This project will start with some question-orientated directions.
     2. Explainable reason why it rains the most
 
     3. What is the relationship between early run and final run. Does the final run suffer from over-calibration?
+    
+We established two-step research:
+
+    1. In the first step, we intend to stand on the top, looking at global scale, including the differences and variability and then explanation of them.
+    
+    2. Second step, we will specify a research area that conflicts the most after first glance. try to understand why this local information violates a lot.
+    
+### First step
+
+Some statistical metrics used in the first study
+
+|stats|representativeness|note|
+|-----|------------------|----|
+|`$$r^2$$`|pixel-wise|describe the trend following|
+|RMSE|pixel-wise|describe the difference|
+|normRMSE|pixel-wise|describe the difference taking out the rain tensity effect|
+|bias ratio|pixel-wise|describe over-estimation/underestimation|
+|variability ratio|pixel-wise|`$$\gamma=\frac{\sigma_s/S}{\sigma_G/G}$$`|
 
 ## Results<a name='results'></a>
 Will update after get results
@@ -42,4 +60,5 @@ Will update after get results
 - [ ] basic statistics information describing early run and final run e.g. RMSE, MAE, pearsonr, and along with normalized value
 
 ## Update<a name='updates'></a>
+    2019.9.6 finished read 'Global intercomparison and regional evaluation of GPM IMERG'
     2019.9.3 initiate README

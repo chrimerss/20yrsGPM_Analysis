@@ -1,2 +1,5 @@
 env/
 Untitled.ipynb
+*.npz
+*.tif
+*.npy

@@ -3,3 +3,10 @@ Untitled.ipynb
 *.npz
 *.tif
 *.npy
+*.txt
+*.nc
+*.HDF5
+*.h5
+*.ipynb
+*.pdf
+*.qgz

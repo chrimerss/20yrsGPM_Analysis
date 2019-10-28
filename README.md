@@ -15,6 +15,8 @@ This project is meant to analyze 20 years precipitation data globally with remot
 
 <img src="src/flowchart.png">
 
+Description of the theoritical difference between each product can be found: https://pmm.nasa.gov/content/what-are-differences-between-imerg-early-late-and-final-runs-and-which-should-be-used
+
 ## Data Acquisition<a name='data'></a>
 All the required data can be found in NASA website, free to download. The products consist of three stages, early run only considered formard morphing and without gauge data calibration, latency of ~4 hrs after observation, late run considered both forward and backward morphing, without gauge data calibration, has latency of ~14 hrs after observation, while final run has forward and backward run, with gauge calibration, but with latency of ~3.5 month after observation.
 
@@ -55,10 +57,11 @@ Some statistical metrics used in the first study
 Will update after get results
 
 ## TODO List<a name='todo'></a>
-- [ ] completes data acquisition part
-- [ ] produce a map containing total amount rainfall during 20 years
-- [ ] basic statistics information describing early run and final run e.g. RMSE, MAE, pearsonr, and along with normalized value
+- [x] completes data acquisition part
+- [x] produce a map containing total amount rainfall during 20 years
+- [x] basic statistics information describing early run and final run e.g. RMSE, MAE, pearsonr, and along with normalized value
 
 ## Update<a name='updates'></a>
+    2019.10.28 finished global statistical calculaiton, decomposed difference into latitudes, climatological zones, different terrains.
     2019.9.6 finished read 'Global intercomparison and regional evaluation of GPM IMERG'
     2019.9.3 initiate README

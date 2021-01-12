@@ -1,5 +1,7 @@
 # 20 years precipitation data analysis
 
+Citation:  Li, Z., Tang, G., Hong, Z., Chen, M., Gao, S., Kirstetter, P., Gourley, J.J., Wen, Y.,Yami, T., Nabih, S., Hong, Y., Two-decades of GPM IMERG Early and Final Run Products Intercomparison:Similarity and Difference in Climatology, Rates, and Extremes, Journal of Hydrology (2021). https://doi.org/10.1016/j.jhydrol.2021.125975
+
 ## Table of Contents
 
 - [Project Description](#description)
